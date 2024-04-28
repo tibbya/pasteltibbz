@@ -1,5 +1,5 @@
 /**
-    * @author Tibby
+    * @name Pastel Tibby
 **/
 
 :root {
@@ -10,16 +10,16 @@
     --background-floating: #44475A;
     --background-secondary-alt: var(--background-floating);
     --background-tertiary: #44475A;
-    --background-accent: rgb(36, 115, 226);
+    --background-accent: #da72c0;
     --userarea-background: var(--background-tertiary);
     --header-primary: #FF79C6;
     --header-secondary: #A4FFFF;
-    --elevation-low: 0 1px 0 rgba(40, 40, 50, 0.2), 0 1.5px 0 rgba(60, 60, 70, 0.05), 0 2px 0 rgba(40, 40, 50, 0.05);
-    --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
+    --elevation-low: 0 1px 0 #44475A, 0 1.5px 0 #44475A, 0 2px 0 #44475A;
+    --elevation-high: 0 8px 16px #0000003d;
     --channels-default: #FF79C6;
     --channeltextarea-background: #282A36;
     --voice-color: var(--brand-experiment);
-    --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+    --guild-header-text-shadow: 0 1px 1px #44475A;
     --activity-card-background: #282A36;
     --interactive-normal: #A4FFFF;
     --interactive-hover: #fefeff;
@@ -37,21 +37,21 @@
     --deprecated-card-editable-bg: var(--background-secondary);
     --deprecated-store-bg: #44475A;
     --deprecated-quickswitcher-input-background: #72767d;
-    --deprecated-quickswitcher-input-placeholder: hsla(0, 0%, 100%, 0.3);
+    --deprecated-quickswitcher-input-placeholder: #ffffff4d;
     --deprecated-text-input-bg: var(--channeltextarea-background);
     --deprecated-text-input-border: var(--border-color);
-    --deprecated-text-input-border-hover: #040405;
+    --deprecated-text-input-border-hover: #19191f;
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde;
     --background-accent-1: rgb(15, 15, 15, 0.1);
     --background-accent-3: rgb(15, 15, 15, 0.3);
-    --background-floating-2: rgba(0, 0, 0, 0.2);
+    --background-floating-2: rgb(0, 0, 0);
     --border: 1px solid rgb(48, 54, 61);
-    --border-color: rgb(48, 54, 61);
-    --blurple-border: 1px solid rgb(31, 47, 71);
+    --border-color: #44475A;
+    --blurple-border: 1px solid #44475A;
     --border-radius: 5px;
     --divide-color: var(--brand-experiment);
-    --brand-experiment: #A4FFFF;
+    --brand-experiment: #da72c0;
     --deprecated-quickswitcher-input-background: var(--channeltextarea-background)
 }
 
